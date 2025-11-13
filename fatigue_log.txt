@@ -1,0 +1,387 @@
+2025-10-13 14:46:41.114583 | ALERT | EAR=0.22980635483311432 | MAR=0.6382802877227318 | Speed=30 | Weather=Clear | Time=Day
+2025-10-13 14:46:46.659698 | ALERT | EAR=0.20021679913721369 | MAR=0.6028500274568819 | Speed=30 | Weather=Clear | Time=Day
+2025-10-13 14:46:49.375326 | ALERT | EAR=0.15805313590241607 | MAR=0.6186533787670149 | Speed=30 | Weather=Clear | Time=Day
+2025-10-13 14:46:50.057720 | ALERT | EAR=0.18903999018961684 | MAR=0.6761583414990981 | Speed=30 | Weather=Clear | Time=Day
+2025-10-13 14:46:59.898139 | ALERT | EAR=0.21222028050617667 | MAR=0.9459565896815197 | Speed=30 | Weather=Clear | Time=Day
+2025-10-13 14:47:03.555248 | ALERT | EAR=0.31822619720340267 | MAR=0.7613776741499453 | Speed=30 | Weather=Clear | Time=Day
+2025-10-13 14:47:04.248635 | ALERT | EAR=0.2727791986950358 | MAR=0.6101762810147068 | Speed=30 | Weather=Clear | Time=Day
+2025-10-13 14:47:17.293196 | ALERT | EAR=0.28449872405832216 | MAR=0.6336277322803107 | Speed=30 | Weather=Clear | Time=Day
+2025-10-13 14:47:23.860441 | ALERT | EAR=0.21380426579576253 | MAR=0.6202158641093983 | Speed=30 | Weather=Clear | Time=Day
+2025-10-13 14:47:26.542559 | ALERT | EAR=0.232046287569865 | MAR=0.6004378551322251 | Speed=30 | Weather=Clear | Time=Day
+2025-10-13 14:56:41.960793 | ALERT | EAR=0.3878818967692009 | MAR=0.6665183636243001 | Speed=74 | Weather=Clear | Time=Day
+2025-10-13 14:56:55.709235 | ALERT | EAR=0.12908275580860154 | MAR=0.7028242354458499 | Speed=74 | Weather=Clear | Time=Day
+2025-10-13 14:56:55.970404 | ALERT | EAR=0.33332422697072406 | MAR=0.8157370672009518 | Speed=74 | Weather=Clear | Time=Day
+2025-10-13 14:56:55.998247 | ALERT | EAR=0.2548026386489506 | MAR=0.6153880382639009 | Speed=74 | Weather=Clear | Time=Day
+2025-10-13 14:56:57.984111 | ALERT | EAR=0.14181174415861167 | MAR=0.600884750423815 | Speed=74 | Weather=Clear | Time=Day
+2025-10-13 14:56:58.020349 | ALERT | EAR=0.1705872485224714 | MAR=0.6955124054194669 | Speed=74 | Weather=Clear | Time=Day
+2025-10-13 14:56:58.057493 | ALERT | EAR=0.20300748986676723 | MAR=0.7732211106009698 | Speed=74 | Weather=Clear | Time=Day
+2025-10-13 14:56:58.096041 | ALERT | EAR=0.23680685467160936 | MAR=0.6224244029445106 | Speed=74 | Weather=Clear | Time=Day
+2025-10-13 14:57:05.197847 | ALERT | EAR=0.22337380857140068 | MAR=0.6373968404695738 | Speed=74 | Weather=Clear | Time=Day
+2025-10-13 15:01:32 | ALERT #1 | EAR=0.101 | MAR=0.199 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:01:32 | ALERT #2 | EAR=0.173 | MAR=0.230 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:01:38 | ALERT #3 | EAR=0.074 | MAR=0.286 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:01:39 | ALERT #4 | EAR=0.133 | MAR=0.296 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:01:39 | ALERT #5 | EAR=0.206 | MAR=0.492 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:01:43 | ALERT #6 | EAR=0.317 | MAR=1.038 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:01:43 | ALERT #7 | EAR=0.299 | MAR=0.762 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:01:47 | ALERT #8 | EAR=0.065 | MAR=0.408 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:01:48 | ALERT #9 | EAR=0.114 | MAR=0.306 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:01:48 | ALERT #10 | EAR=0.126 | MAR=0.338 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:02:19 | ALERT #11 | EAR=0.093 | MAR=0.359 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:02:20 | ALERT #12 | EAR=0.141 | MAR=0.320 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:02:20 | ALERT #13 | EAR=0.188 | MAR=0.360 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:02:26 | ALERT #14 | EAR=0.403 | MAR=0.759 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:02:34 | ALERT #15 | EAR=0.485 | MAR=0.711 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:03:20 | ALERT #16 | EAR=0.205 | MAR=0.327 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:03:28 | ALERT #17 | EAR=0.190 | MAR=0.351 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:03:29 | ALERT #18 | EAR=0.213 | MAR=0.192 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:03:33 | ALERT #19 | EAR=0.185 | MAR=0.337 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:03:34 | ALERT #20 | EAR=0.182 | MAR=0.343 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:03:34 | ALERT #21 | EAR=0.206 | MAR=0.310 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:03:35 | ALERT #22 | EAR=0.223 | MAR=0.350 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:13:20 | ALERT #1 | EAR=0.094 | MAR=0.263 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-13 15:13:21 | ALERT #2 | EAR=0.149 | MAR=0.271 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-13 15:13:25 | ALERT #3 | EAR=0.119 | MAR=0.286 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-13 15:13:25 | ALERT #4 | EAR=0.126 | MAR=0.283 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-13 15:13:26 | ALERT #5 | EAR=0.174 | MAR=0.282 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-13 15:13:50 | ALERT #6 | EAR=0.094 | MAR=0.255 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-13 15:13:51 | ALERT #7 | EAR=0.097 | MAR=0.277 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-13 15:13:52 | ALERT #8 | EAR=0.103 | MAR=0.263 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-13 15:13:52 | ALERT #9 | EAR=0.165 | MAR=0.248 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-13 15:18:02 | ALERT #1 | EAR=0.074 | MAR=0.285 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:18:03 | ALERT #2 | EAR=0.084 | MAR=0.270 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:18:04 | ALERT #3 | EAR=0.089 | MAR=0.206 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:18:04 | ALERT #4 | EAR=0.097 | MAR=0.201 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:18:29 | ALERT #5 | EAR=0.096 | MAR=0.368 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-13 15:18:30 | ALERT #6 | EAR=0.146 | MAR=0.307 | Speed=60 km/h | Weather=Clear | Time=Night
+2025-10-14 09:19:31.614118 - EAR: 0.26, MAR: 0.27, Status: Alert
+2025-10-14 09:19:42.485308 - EAR: 0.25, MAR: 0.27, Status: Alert
+2025-10-14 09:19:46.126839 - EAR: 0.30, MAR: 0.26, Status: Alert
+2025-10-14 09:19:52.578115 - EAR: 0.31, MAR: 0.27, Status: Alert
+2025-10-14 09:19:52.649491 - EAR: 0.29, MAR: 0.25, Status: Alert
+2025-10-14 09:20:17.066739 - EAR: 0.25, MAR: 0.32, Status: Alert
+2025-10-14 09:20:19.771847 - EAR: 0.29, MAR: 0.27, Status: Alert
+2025-10-14 09:20:19.875200 - EAR: 0.28, MAR: 0.26, Status: Alert
+2025-10-14 09:20:51.258089 - EAR: 0.22, MAR: 0.30, Status: Alert
+2025-10-14 09:20:53.448525 - EAR: 0.13, MAR: 0.26, Status: Alert
+2025-10-14 09:21:09.313115 - EAR: 0.34, MAR: 0.27, Status: Alert
+2025-10-14 09:21:13.693256 - EAR: 0.29, MAR: 0.28, Status: Alert
+2025-10-14 09:52:08.218524 - EAR: 0.24, MAR: 0.29, Status: Alert
+2025-10-14 09:52:18.147038 - EAR: 0.30, MAR: 0.26, Status: Alert
+2025-10-14 09:57:17.192655 - EAR: 0.27, MAR: 0.27, Status: Alert
+2025-10-14 09:57:17.895398 - EAR: 0.27, MAR: 0.25, Status: Alert
+2025-10-14 09:57:18.580763 - EAR: 0.33, MAR: 0.27, Status: Alert
+2025-10-14 09:57:19.504560 - EAR: 0.32, MAR: 0.25, Status: Alert
+2025-10-14 09:57:37.446199 - EAR: 0.27, MAR: 0.27, Status: Alert
+2025-10-14 09:57:38.447251 - EAR: 0.12, MAR: 0.26, Status: Alert
+2025-10-14 09:57:39.788448 - EAR: 0.17, MAR: 0.24, Status: Alert
+2025-10-14 09:57:40.743308 - EAR: 0.18, MAR: 0.25, Status: Alert
+2025-10-14 09:57:41.766331 - EAR: 0.18, MAR: 0.31, Status: Alert
+2025-10-14 09:57:43.672760 - EAR: 0.24, MAR: 0.27, Status: Alert
+2025-10-14 09:57:46.664043 - EAR: 0.17, MAR: 0.63, Status: Alert
+2025-10-14 09:57:48.619314 - EAR: 0.19, MAR: 0.28, Status: Alert
+2025-10-14 09:57:49.772130 - EAR: 0.21, MAR: 0.26, Status: Alert
+2025-10-14 09:57:55.403733 - EAR: 0.20, MAR: 0.27, Status: Alert
+2025-10-14 10:02:29.691553 - EAR: 0.29, MAR: 0.24, Status: Alert
+2025-10-14 10:02:43.858091 - EAR: 0.28, MAR: 0.29, Status: Alert
+2025-10-14 10:02:50.815294 - EAR: 0.29, MAR: 0.24, Status: Alert
+2025-10-14 10:02:54.044792 - EAR: 0.26, MAR: 0.25, Status: Alert
+2025-10-14 10:03:00.045717 - EAR: 0.27, MAR: 0.27, Status: Alert
+2025-10-14 10:03:02.078960 - EAR: 0.26, MAR: 0.26, Status: Alert
+2025-10-14 10:03:04.152882 - EAR: 0.22, MAR: 0.25, Status: Alert
+2025-10-14 10:03:06.894593 - EAR: 0.20, MAR: 0.25, Status: Alert
+2025-10-14 10:03:07.086290 - EAR: 0.22, MAR: 0.28, Status: Alert
+2025-10-14 10:03:11.717003 - EAR: 0.25, MAR: 0.26, Status: Alert
+2025-10-14 10:03:13.727801 - EAR: 0.23, MAR: 0.24, Status: Alert
+2025-10-14 10:03:17.265379 - EAR: 0.27, MAR: 0.26, Status: Alert
+2025-10-14 10:03:19.218463 - EAR: 0.26, MAR: 0.27, Status: Alert
+2025-10-14 10:03:28.393247 - EAR: 0.27, MAR: 0.26, Status: Alert
+2025-10-14 10:03:39.457412 - EAR: 0.27, MAR: 0.25, Status: Alert
+2025-10-14 10:11:01.365625 - EAR: 0.240, MAR: 0.277, Status: Alert
+2025-10-14 10:11:12.939373 - EAR: 0.280, MAR: 0.270, Status: Alert
+2025-10-14 10:14:49.279393 - EAR: 0.227, MAR: 0.265, Status: Alert
+2025-10-14 10:14:57.195167 - EAR: 0.240, MAR: 0.262, Status: Alert
+2025-10-14 10:15:25.609484 - EAR: 0.303, MAR: 0.251, Status: Alert
+2025-10-14 10:15:33.732186 - EAR: 0.291, MAR: 0.303, Status: Alert
+2025-10-14 10:15:54.021826 - EAR: 0.267, MAR: 0.269, Status: Alert
+2025-10-14 10:15:54.098240 - EAR: 0.232, MAR: 0.253, Status: Alert
+2025-10-14 10:15:56.966758 - EAR: 0.229, MAR: 0.259, Status: Alert
+2025-10-14 10:16:03.491746 - EAR: 0.203, MAR: 0.248, Status: Alert
+2025-10-14 10:18:16.714427 - EAR: 0.285, MAR: 0.256, Status: Alert
+2025-10-14 10:18:25.858346 - EAR: 0.298, MAR: 0.273, Status: Alert
+2025-10-14 10:18:32.588891 - EAR: 0.280, MAR: 0.262, Status: Alert
+2025-10-14 10:21:59.449498 - EAR: 0.273, MAR: 0.251, Status: Alert
+2025-10-14 10:53:36 | ALERT #1 | EAR=0.171 | MAR=0.427 | Speed=59 km/h | Weather=Clear | Time=Day
+2025-10-14 10:53:37 | ALERT #2 | EAR=0.178 | MAR=0.418 | Speed=59 km/h | Weather=Clear | Time=Day
+2025-10-14 10:53:37 | ALERT #3 | EAR=0.175 | MAR=0.416 | Speed=59 km/h | Weather=Clear | Time=Day
+2025-10-14 10:53:38 | ALERT #4 | EAR=0.186 | MAR=0.408 | Speed=59 km/h | Weather=Clear | Time=Day
+2025-10-14 10:53:47 | ALERT #5 | EAR=0.253 | MAR=0.750 | Speed=59 km/h | Weather=Clear | Time=Day
+2025-10-14 10:53:47 | ALERT #6 | EAR=0.245 | MAR=0.916 | Speed=59 km/h | Weather=Clear | Time=Day
+2025-10-14 10:53:48 | ALERT #7 | EAR=0.234 | MAR=0.828 | Speed=59 km/h | Weather=Clear | Time=Day
+2025-10-14 10:54:06 | ALERT #8 | EAR=0.135 | MAR=0.468 | Speed=59 km/h | Weather=Clear | Time=Day
+2025-10-14 10:54:07 | ALERT #9 | EAR=0.145 | MAR=0.510 | Speed=59 km/h | Weather=Clear | Time=Day
+2025-10-14 10:54:07 | ALERT #10 | EAR=0.161 | MAR=0.509 | Speed=59 km/h | Weather=Clear | Time=Day
+2025-10-14 10:54:08 | ALERT #11 | EAR=0.180 | MAR=0.494 | Speed=59 km/h | Weather=Clear | Time=Day
+2025-10-14 10:54:08 | ALERT #12 | EAR=0.179 | MAR=0.489 | Speed=59 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #1 | EAR=0.231 | MAR=0.341 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #2 | EAR=0.232 | MAR=0.318 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #3 | EAR=0.226 | MAR=0.362 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #4 | EAR=0.230 | MAR=0.355 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #5 | EAR=0.224 | MAR=0.346 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #6 | EAR=0.224 | MAR=0.347 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #7 | EAR=0.226 | MAR=0.340 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #8 | EAR=0.235 | MAR=0.266 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #9 | EAR=0.240 | MAR=0.289 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #10 | EAR=0.239 | MAR=0.300 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #11 | EAR=0.236 | MAR=0.301 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #12 | EAR=0.237 | MAR=0.315 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:52 | ALERT #13 | EAR=0.237 | MAR=0.346 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:53 | ALERT #14 | EAR=0.237 | MAR=0.349 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:53 | ALERT #15 | EAR=0.239 | MAR=0.368 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:53 | ALERT #16 | EAR=0.247 | MAR=0.393 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:53 | ALERT #17 | EAR=0.245 | MAR=0.350 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:53 | ALERT #18 | EAR=0.240 | MAR=0.353 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:53 | ALERT #19 | EAR=0.221 | MAR=0.347 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:53 | ALERT #20 | EAR=0.214 | MAR=0.355 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:53 | ALERT #21 | EAR=0.213 | MAR=0.364 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:53 | ALERT #22 | EAR=0.234 | MAR=0.360 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:58:55 | ALERT #23 | EAR=0.374 | MAR=0.745 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:00 | ALERT #24 | EAR=0.220 | MAR=0.373 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:00 | ALERT #25 | EAR=0.222 | MAR=0.380 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:00 | ALERT #26 | EAR=0.220 | MAR=0.424 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:00 | ALERT #27 | EAR=0.220 | MAR=0.389 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:00 | ALERT #28 | EAR=0.219 | MAR=0.378 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #29 | EAR=0.224 | MAR=0.394 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #30 | EAR=0.230 | MAR=0.383 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #31 | EAR=0.232 | MAR=0.395 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #32 | EAR=0.227 | MAR=0.393 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #33 | EAR=0.217 | MAR=0.383 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #34 | EAR=0.219 | MAR=0.397 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #35 | EAR=0.223 | MAR=0.389 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #36 | EAR=0.228 | MAR=0.385 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #37 | EAR=0.228 | MAR=0.391 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #38 | EAR=0.227 | MAR=0.399 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #39 | EAR=0.237 | MAR=0.396 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #40 | EAR=0.236 | MAR=0.378 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:01 | ALERT #41 | EAR=0.240 | MAR=0.369 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:02 | ALERT #42 | EAR=0.238 | MAR=0.369 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:02 | ALERT #43 | EAR=0.246 | MAR=0.364 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #44 | EAR=0.167 | MAR=0.323 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #45 | EAR=0.172 | MAR=0.306 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #46 | EAR=0.171 | MAR=0.301 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #47 | EAR=0.174 | MAR=0.328 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #48 | EAR=0.176 | MAR=0.324 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #49 | EAR=0.176 | MAR=0.311 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #50 | EAR=0.181 | MAR=0.324 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #51 | EAR=0.178 | MAR=0.310 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #52 | EAR=0.176 | MAR=0.323 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #53 | EAR=0.171 | MAR=0.310 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #54 | EAR=0.180 | MAR=0.325 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #55 | EAR=0.188 | MAR=0.317 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:12 | ALERT #56 | EAR=0.192 | MAR=0.315 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #57 | EAR=0.192 | MAR=0.307 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #58 | EAR=0.187 | MAR=0.306 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #59 | EAR=0.191 | MAR=0.307 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #60 | EAR=0.176 | MAR=0.312 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #61 | EAR=0.180 | MAR=0.291 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #62 | EAR=0.172 | MAR=0.311 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #63 | EAR=0.185 | MAR=0.298 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #64 | EAR=0.184 | MAR=0.314 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #65 | EAR=0.182 | MAR=0.297 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #66 | EAR=0.185 | MAR=0.307 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #67 | EAR=0.186 | MAR=0.323 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #68 | EAR=0.187 | MAR=0.307 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:13 | ALERT #69 | EAR=0.180 | MAR=0.295 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #70 | EAR=0.178 | MAR=0.313 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #71 | EAR=0.179 | MAR=0.324 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #72 | EAR=0.182 | MAR=0.327 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #73 | EAR=0.190 | MAR=0.291 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #74 | EAR=0.188 | MAR=0.323 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #75 | EAR=0.187 | MAR=0.307 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #76 | EAR=0.174 | MAR=0.320 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #77 | EAR=0.183 | MAR=0.343 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #78 | EAR=0.195 | MAR=0.318 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #79 | EAR=0.213 | MAR=0.359 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #80 | EAR=0.215 | MAR=0.352 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #81 | EAR=0.206 | MAR=0.353 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:14 | ALERT #82 | EAR=0.211 | MAR=0.351 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:15 | ALERT #83 | EAR=0.223 | MAR=0.332 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 10:59:15 | ALERT #84 | EAR=0.245 | MAR=0.332 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:30 | ALERT #1 | EAR=0.152 | MAR=0.346 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:30 | ALERT #2 | EAR=0.154 | MAR=0.328 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:30 | ALERT #3 | EAR=0.149 | MAR=0.343 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:30 | ALERT #4 | EAR=0.139 | MAR=0.337 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:30 | ALERT #5 | EAR=0.134 | MAR=0.338 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:30 | ALERT #6 | EAR=0.130 | MAR=0.342 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:30 | ALERT #7 | EAR=0.136 | MAR=0.335 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:31 | ALERT #8 | EAR=0.142 | MAR=0.344 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:31 | ALERT #9 | EAR=0.147 | MAR=0.325 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:31 | ALERT #10 | EAR=0.139 | MAR=0.329 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:31 | ALERT #11 | EAR=0.120 | MAR=0.326 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:31 | ALERT #12 | EAR=0.112 | MAR=0.335 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:31 | ALERT #13 | EAR=0.106 | MAR=0.333 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:31 | ALERT #14 | EAR=0.113 | MAR=0.330 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:31 | ALERT #15 | EAR=0.123 | MAR=0.337 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:31 | ALERT #16 | EAR=0.143 | MAR=0.350 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:31 | ALERT #17 | EAR=0.196 | MAR=0.347 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:07:31 | ALERT #18 | EAR=0.227 | MAR=0.377 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:18:36 | ALERT #1 | EAR=0.192 | MAR=0.481 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:18:40 | ALERT #2 | EAR=0.096 | MAR=0.393 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:18:44 | ALERT #3 | EAR=0.227 | MAR=0.564 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:18:46 | ALERT #4 | EAR=0.243 | MAR=0.329 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:18:51 | ALERT #5 | EAR=0.386 | MAR=0.840 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:19:05 | ALERT #6 | EAR=0.182 | MAR=0.332 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:19:07 | ALERT #7 | EAR=0.197 | MAR=0.326 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:19:09 | ALERT #8 | EAR=0.201 | MAR=0.320 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:19:11 | ALERT #9 | EAR=0.202 | MAR=0.320 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:19:57 | ALERT #10 | EAR=0.085 | MAR=0.312 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:20:36 | ALERT #11 | EAR=0.129 | MAR=0.384 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:20:38 | ALERT #12 | EAR=0.180 | MAR=0.363 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:20:40 | ALERT #13 | EAR=0.215 | MAR=0.321 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:20:42 | ALERT #14 | EAR=0.220 | MAR=0.330 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:22:36 | ALERT #1 | EAR=0.162 | MAR=0.344 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:22:38 | ALERT #2 | EAR=0.126 | MAR=0.352 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:22:40 | ALERT #3 | EAR=0.199 | MAR=0.341 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:33:15 | ALERT #1 | EAR=0.151 | MAR=0.378 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:33:17 | ALERT #2 | EAR=0.176 | MAR=0.330 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:33:19 | ALERT #3 | EAR=0.134 | MAR=0.345 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:33:21 | ALERT #4 | EAR=0.120 | MAR=0.341 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:33:23 | ALERT #5 | EAR=0.169 | MAR=0.311 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:33:25 | ALERT #6 | EAR=0.181 | MAR=0.309 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:33:43 | ALERT #7 | EAR=0.489 | MAR=0.780 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:33:49 | ALERT #8 | EAR=0.223 | MAR=0.320 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:38:12 | ALERT #1 | EAR=0.085 | MAR=0.331 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 11:38:14 | ALERT #2 | EAR=0.215 | MAR=0.332 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:02:13 | ALERT #1 | EAR=0.105 | MAR=0.237 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:02:15 | ALERT #2 | EAR=0.099 | MAR=0.213 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:02:27 | ALERT #3 | EAR=0.106 | MAR=0.213 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:02:29 | ALERT #4 | EAR=0.080 | MAR=0.376 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:02:40 | ALERT #5 | EAR=0.117 | MAR=0.224 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:02:42 | ALERT #6 | EAR=0.079 | MAR=0.376 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:02:53 | ALERT #7 | EAR=0.115 | MAR=0.224 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:02:55 | ALERT #8 | EAR=0.093 | MAR=0.385 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:03:06 | ALERT #9 | EAR=0.118 | MAR=0.214 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:03:08 | ALERT #10 | EAR=0.095 | MAR=0.385 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:03:19 | ALERT #11 | EAR=0.115 | MAR=0.224 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:03:21 | ALERT #12 | EAR=0.099 | MAR=0.385 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:03:32 | ALERT #13 | EAR=0.112 | MAR=0.220 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:03:34 | ALERT #14 | EAR=0.145 | MAR=0.377 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:04:09 | ALERT #1 | EAR=0.099 | MAR=0.306 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-14 12:04:11 | ALERT #2 | EAR=0.239 | MAR=0.418 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:10:35 | ALERT #1 | EAR=0.099 | MAR=0.217 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:10:37 | ALERT #2 | EAR=0.104 | MAR=0.211 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:10:50 | ALERT #3 | EAR=0.114 | MAR=0.220 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:10:52 | ALERT #4 | EAR=0.091 | MAR=0.375 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:11:03 | ALERT #5 | EAR=0.120 | MAR=0.224 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:11:05 | ALERT #6 | EAR=0.092 | MAR=0.375 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:11:16 | ALERT #7 | EAR=0.117 | MAR=0.224 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:11:18 | ALERT #8 | EAR=0.146 | MAR=0.377 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:11:28 | ALERT #9 | EAR=0.107 | MAR=0.227 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:11:30 | ALERT #10 | EAR=0.082 | MAR=0.376 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:11:41 | ALERT #11 | EAR=0.115 | MAR=0.224 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:11:44 | ALERT #12 | EAR=0.150 | MAR=0.377 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:11:54 | ALERT #13 | EAR=0.105 | MAR=0.229 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 11:11:56 | ALERT #14 | EAR=0.081 | MAR=0.376 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:23:03 | ALERT #1 | EAR=0.106 | MAR=0.203 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:23:05 | ALERT #2 | EAR=0.078 | MAR=0.350 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:30:44 | ALERT #1 | EAR=0.094 | MAR=0.242 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:30:46 | ALERT #2 | EAR=0.146 | MAR=0.377 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:30:58 | ALERT #3 | EAR=0.086 | MAR=0.261 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:31:00 | ALERT #4 | EAR=0.090 | MAR=0.282 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:31:12 | ALERT #5 | EAR=0.116 | MAR=0.196 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:31:14 | ALERT #6 | EAR=0.146 | MAR=0.377 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:31:26 | ALERT #7 | EAR=0.099 | MAR=0.231 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:31:28 | ALERT #8 | EAR=0.090 | MAR=0.304 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:31:40 | ALERT #9 | EAR=0.113 | MAR=0.196 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:31:42 | ALERT #10 | EAR=0.219 | MAR=0.386 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:31:53 | ALERT #11 | EAR=0.098 | MAR=0.228 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:31:55 | ALERT #12 | EAR=0.091 | MAR=0.304 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:32:07 | ALERT #13 | EAR=0.104 | MAR=0.237 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:32:09 | ALERT #14 | EAR=0.145 | MAR=0.377 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:32:20 | ALERT #15 | EAR=0.097 | MAR=0.242 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:32:22 | ALERT #16 | EAR=0.087 | MAR=0.283 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:32:34 | ALERT #17 | EAR=0.107 | MAR=0.207 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:32:47 | ALERT #18 | EAR=0.097 | MAR=0.228 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:32:49 | ALERT #19 | EAR=0.082 | MAR=0.376 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:33:00 | ALERT #20 | EAR=0.101 | MAR=0.227 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:33:02 | ALERT #21 | EAR=0.085 | MAR=0.320 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:33:13 | ALERT #22 | EAR=0.105 | MAR=0.237 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:33:15 | ALERT #23 | EAR=0.098 | MAR=0.385 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:33:25 | ALERT #24 | EAR=0.107 | MAR=0.218 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:33:27 | ALERT #25 | EAR=0.081 | MAR=0.366 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:33:38 | ALERT #26 | EAR=0.107 | MAR=0.223 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:33:40 | ALERT #27 | EAR=0.079 | MAR=0.365 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:33:51 | ALERT #28 | EAR=0.106 | MAR=0.229 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:34:03 | ALERT #29 | EAR=0.107 | MAR=0.237 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:34:05 | ALERT #30 | EAR=0.097 | MAR=0.385 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:34:16 | ALERT #31 | EAR=0.106 | MAR=0.229 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:34:18 | ALERT #32 | EAR=0.079 | MAR=0.320 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:34:29 | ALERT #33 | EAR=0.119 | MAR=0.214 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:34:31 | ALERT #34 | EAR=0.080 | MAR=0.376 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:34:42 | ALERT #35 | EAR=0.112 | MAR=0.200 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:34:55 | ALERT #36 | EAR=0.105 | MAR=0.237 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:35:07 | ALERT #37 | EAR=0.106 | MAR=0.229 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:35:09 | ALERT #38 | EAR=0.078 | MAR=0.350 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:35:20 | ALERT #39 | EAR=0.097 | MAR=0.227 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:35:22 | ALERT #40 | EAR=0.084 | MAR=0.307 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:35:33 | ALERT #41 | EAR=0.111 | MAR=0.207 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:35:46 | ALERT #42 | EAR=0.113 | MAR=0.200 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:35:48 | ALERT #43 | EAR=0.219 | MAR=0.387 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:35:58 | ALERT #44 | EAR=0.104 | MAR=0.203 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:36:11 | ALERT #45 | EAR=0.105 | MAR=0.237 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:36:13 | ALERT #46 | EAR=0.079 | MAR=0.350 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:36:24 | ALERT #47 | EAR=0.118 | MAR=0.203 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:36:26 | ALERT #48 | EAR=0.096 | MAR=0.385 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:36:37 | ALERT #49 | EAR=0.111 | MAR=0.207 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:36:50 | ALERT #50 | EAR=0.104 | MAR=0.237 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:36:52 | ALERT #51 | EAR=0.079 | MAR=0.350 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:37:03 | ALERT #52 | EAR=0.117 | MAR=0.199 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:37:15 | ALERT #53 | EAR=0.106 | MAR=0.218 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:37:17 | ALERT #54 | EAR=0.080 | MAR=0.366 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:37:28 | ALERT #55 | EAR=0.117 | MAR=0.207 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:37:39 | ALERT #56 | EAR=0.116 | MAR=0.203 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 12:37:41 | ALERT #57 | EAR=0.079 | MAR=0.376 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 14:57:29 | ALERT #1 | EAR=0.156 | MAR=0.363 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 16:20:58 | ALERT #1 | EAR=0.088 | MAR=0.270 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 16:21:00 | ALERT #2 | EAR=0.103 | MAR=0.213 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 16:21:16 | ALERT #3 | EAR=0.118 | MAR=0.224 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 16:21:18 | ALERT #4 | EAR=0.219 | MAR=0.387 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:07:50 | ALERT #1 | EAR=0.094 | MAR=0.242 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:07:52 | ALERT #2 | EAR=0.082 | MAR=0.305 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:08:04 | ALERT #3 | EAR=0.114 | MAR=0.220 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:08:06 | ALERT #4 | EAR=0.091 | MAR=0.375 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:10:37 | ALERT #1 | EAR=0.094 | MAR=0.242 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:10:39 | ALERT #2 | EAR=0.082 | MAR=0.305 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:10:52 | ALERT #3 | EAR=0.104 | MAR=0.237 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:10:54 | ALERT #4 | EAR=0.078 | MAR=0.320 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:28:00 | ALERT #1 | EAR=0.099 | MAR=0.217 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:28:02 | ALERT #2 | EAR=0.075 | MAR=0.320 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:28:14 | ALERT #3 | EAR=0.114 | MAR=0.220 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:28:16 | ALERT #4 | EAR=0.080 | MAR=0.376 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:28:27 | ALERT #5 | EAR=0.117 | MAR=0.224 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:28:29 | ALERT #6 | EAR=0.079 | MAR=0.376 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:34:56 | ALERT #1 | EAR=0.216 | MAR=0.326 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:34:58 | ALERT #2 | EAR=0.164 | MAR=0.338 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:35:00 | ALERT #3 | EAR=0.205 | MAR=0.330 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:35:03 | ALERT #4 | EAR=0.240 | MAR=0.370 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:35:09 | ALERT #5 | EAR=0.178 | MAR=0.475 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:35:12 | ALERT #6 | EAR=0.156 | MAR=0.265 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:35:20 | ALERT #7 | EAR=0.211 | MAR=0.445 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:35:25 | ALERT #8 | EAR=0.108 | MAR=0.216 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:35:30 | ALERT #9 | EAR=0.200 | MAR=0.354 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:36:08 | ALERT #1 | EAR=0.115 | MAR=0.222 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:36:10 | ALERT #2 | EAR=0.146 | MAR=0.377 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:36:21 | ALERT #3 | EAR=0.118 | MAR=0.224 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:36:23 | ALERT #4 | EAR=0.144 | MAR=0.377 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:42:23 | ALERT #1 | EAR=0.235 | MAR=0.414 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:42:24 | ALERT #2 | EAR=0.244 | MAR=0.385 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:42:24 | ALERT #3 | EAR=0.234 | MAR=0.377 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:42:25 | ALERT #4 | EAR=0.228 | MAR=0.303 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-15 20:42:25 | ALERT #5 | EAR=0.225 | MAR=0.346 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-16 16:31:35 | ALERT #1 | EAR=0.105 | MAR=0.237 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-16 16:31:37 | ALERT #2 | EAR=0.077 | MAR=0.304 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-16 16:31:48 | ALERT #3 | EAR=0.106 | MAR=0.213 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-16 16:31:50 | ALERT #4 | EAR=0.080 | MAR=0.376 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-16 16:32:01 | ALERT #5 | EAR=0.109 | MAR=0.215 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-16 16:32:03 | ALERT #6 | EAR=0.079 | MAR=0.376 | Speed=60 km/h | Weather=Clear | Time=Day
+2025-10-16 16:32:14 | ALERT #7 | EAR=0.115 | MAR=0.224 | Speed=60 km/h | Weather=Clear | Time=Day

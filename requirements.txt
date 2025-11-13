@@ -1,0 +1,11 @@
+opencv-python
+numpy
+scipy
+tkinter
+threading
+ctypes
+streamlit==1.28.0
+mediapipe==0.10.9
+numpy==1.24.3
+Pillow==10.0.1
+pygame==2.5.0

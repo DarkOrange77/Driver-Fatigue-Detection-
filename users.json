@@ -1,0 +1,37 @@
+{
+    "Blueeyedking": {
+        "email": "JJKshibuya@gmail.com",
+        "password": "7e0fe928af505da157c63cc2ca59697d2998e002c81e39ed11a66d67cc6a5674",
+        "full_name": "Gojo ",
+        "created_at": "2025-10-14 11:31:48",
+        "last_login": "2025-10-14 11:45:52"
+    },
+    "Rose": {
+        "email": "Winter@gmail.com",
+        "password": "1de73c84b4a835fd7dcfc1eaf81adae63ce2291578e17fc31d3a6bf307fb9621",
+        "full_name": "Alice Winter",
+        "created_at": "2025-10-15 11:46:18",
+        "last_login": "2025-10-15 11:49:17"
+    },
+    "Lily ": {
+        "email": "Lily@gmail.com",
+        "password": "e5600fb6b900d80731efa3d683f348b79242af2a13ffe09b4d1cd4cba9c15715",
+        "full_name": "Lily ",
+        "created_at": "2025-10-15 14:49:51",
+        "last_login": "2025-10-15 14:50:19"
+    },
+    "Eren": {
+        "email": "Marley@gmail.com",
+        "password": "2c57d5b6c3d2b3d93b0ded56b3e35ddda9ab384e339815825b28e1a61dd5a223",
+        "full_name": "Eren ",
+        "created_at": "2025-10-15 14:56:13",
+        "last_login": "2025-10-16 16:30:36"
+    },
+    "Delores": {
+        "email": "Del@gmail.com",
+        "password": "43d22191f7ba18645e3b871870a4a6f69296d4e7639ec35a93d7c72591ad4858",
+        "full_name": "Delora",
+        "created_at": "2025-10-15 20:03:25",
+        "last_login": null
+    }
+}
